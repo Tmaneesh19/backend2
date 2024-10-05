@@ -13,9 +13,7 @@ let usersList = [
     }
 ]
 
-app.get('/users',(req,res)=>{
-    res.send({abc:usersList})
-})
+
 
 app.get('/users/:id',(req,res)=>{
     let id = Number(req.params.id);
