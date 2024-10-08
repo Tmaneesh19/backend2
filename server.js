@@ -6,7 +6,7 @@ const app = exp();
 app.use(exp.json());
   //  
 let usersList = [
-    {
+    { 
     id:1,
     name:'maneesh'
     },
