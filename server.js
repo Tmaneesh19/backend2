@@ -1,6 +1,6 @@
 const exp = require('express')
 const app = exp();
-// this internally ( establishes )creates the http server............askkndkasndkn....
+// this internally ( establishes ) the http server............askkndkasndkn....
 
 
 app.use(exp.json());
