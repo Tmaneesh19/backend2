@@ -1,7 +1,7 @@
 const exp = require('express')
 const app = exp();
 //  internally ( establishes ) the http server............askkndkasndkn....
-//sccsd jn aaasd af aaaa a
+//sccsd jn aaasd af aaaa a a
 
 app.use(exp.json());
   //  
