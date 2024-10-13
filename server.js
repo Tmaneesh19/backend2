@@ -1,5 +1,5 @@
 const exp = require('express')
-const  app = exp();
+const  app = exp(); 
 //  internal ly ( establishe s ) the http server............askkndkasndkn... .
 //sccsd jn aaasd af aaaa a a 
   
