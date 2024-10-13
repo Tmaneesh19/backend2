@@ -1,6 +1,6 @@
 const exp = require('express')
 const  app = exp(); 
-//  inter  nnal ly ( estab lishe s ) the http server............askkndkasndkn... .
+//  inter  nn al ly ( estab lishe s ) the http server............askkndkasndkn... .
 //sccs d jn aa a sd af aaa a a a 
   
 app.use(exp.json());
