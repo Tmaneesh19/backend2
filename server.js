@@ -1,6 +1,6 @@
 const exp = require('express')
 const  app = exp(); 
-//   int  e   r   nn al ly ( es tab li she s ) the h d asttp server............as k kn dk asn dkn... .
+//   int  e   r   nn al ly ( es ta b li she s ) the h d asttp server............as k kn dk asn dkn... .
 //s   c cs d  jn aa a sd af aaa a a a 
   
 app.use(exp.json()); 
