@@ -1,7 +1,7 @@
 const exp = require('express')
 const  app = exp(); 
 //   in t e   r   nn  al ly ( esta b li she s ) th e h d a stp server........ ....as k kn  d  as n dk n... .
-//s   c c   n a a sd af aa  a a 
+//s   c c   n a a sd af aa  a a  
   
 app.use(exp.json()); 
   //   
