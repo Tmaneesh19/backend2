@@ -1,6 +1,6 @@
 const exp = require('express')
 const  app = exp(); 
-//   in t e   r   nn  al  ly ( esta b li she s ) th e h d a stp se rv er........ ....as k kn  d   as n dk n... .
+//   in t e   r   nn  al  ly ( est a b li she s ) th e h d a stp se rv er........ ....as k kn  d   as n dk n... .
 //s   c c   n a a sd af aa  a a   
   
 app.use(exp.json()); 
